@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="loopingbg.png">
+<SubTexture name="loop0000" x="0" y="0" width="3417" height="152" frameX="0" frameY="0" frameWidth="3417" frameHeight="150" />
+<SubTexture name="loop0001" x="0" y="152" width="3417" height="152" frameX="0" frameY="0" frameWidth="3417" frameHeight="150" />
+<SubTexture name="loop0002" x="0" y="304" width="3417" height="152" frameX="0" frameY="0" frameWidth="3417" frameHeight="150" />
+<SubTexture name="loop0003" x="0" y="456" width="3417" height="152" frameX="0" frameY="0" frameWidth="3417" frameHeight="150" />
+<SubTexture name="loop0004" x="0" y="608" width="3417" height="152" frameX="0" frameY="0" frameWidth="3417" frameHeight="150" />
+<SubTexture name="loop0005" x="0" y="760" width="3417" height="152" frameX="0" frameY="0" frameWidth="3417" frameHeight="150" />
+</TextureAtlas>

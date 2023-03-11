@@ -1,0 +1,24 @@
+{
+    "ANIMATION": {
+        "name": "week-7-cutscene-assets-sm",
+        "SYMBOL_name": "PicoAtlas",
+        "TIMELINE": {
+            "LAYERS": [
+                {                                                        "z": -1
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "metadata": {
+        "framerate": 24
+    }
+}

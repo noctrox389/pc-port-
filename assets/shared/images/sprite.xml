@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sprite.png">
+<SubTexture name="sprite0000" x="0" y="0" width="2670" height="150" frameX="0" frameY="0" frameWidth="2670" frameHeight="150" />
+<SubTexture name="sprite0001" x="0" y="150" width="2670" height="150" frameX="0" frameY="0" frameWidth="2670" frameHeight="150" />
+<SubTexture name="sprite0002" x="0" y="300" width="2670" height="150" frameX="0" frameY="0" frameWidth="2670" frameHeight="150" />
+<SubTexture name="sprite0003" x="0" y="450" width="2670" height="150" frameX="0" frameY="0" frameWidth="2670" frameHeight="150" />
+</TextureAtlas>

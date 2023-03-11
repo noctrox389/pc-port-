@@ -1,0 +1,826 @@
+{
+	"song": {
+		"events": [
+			[
+				2837.83783783784,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sonicfakealt"
+					],
+					[
+						"Play Animation",
+						"entrance",
+						"Dad"
+					]
+				]
+			],
+			[
+				40216.2162162162,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				40236.4864864865,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				40256.7567567568,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				40277.027027027,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				40297.2972972973,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				40317.5675675676,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				40337.8378378378,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				40358.1081081081,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				40378.3783783784,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				40398.6486486487,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				40418.9189189189,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				40439.1891891892,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				40459.4594594595,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				40479.7297297297,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				40500,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				40520.2702702703,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				40540.5405405405,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				40560.8108108108,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				40581.0810810811,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				40601.3513513514,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				40621.6216216216,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				40641.8918918919,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				40662.1621621622,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				40682.4324324324,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				40702.7027027027,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				40722.972972973,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				40743.2432432432,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				40763.5135135135,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				40783.7837837838,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				40804.0540540541,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				40824.3243243243,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				40844.5945945946,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				40864.8648648649,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				40885.1351351351,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				40905.4054054054,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				40925.6756756757,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				40945.9459459459,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				40966.2162162162,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				40986.4864864865,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				41006.7567567568,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				41027.027027027,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				41047.2972972973,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				41067.5675675676,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				41087.8378378378,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				41108.1081081081,
+				[
+					[
+						"Play Animation",
+						"transition",
+						"dad"
+					]
+				]
+			],
+			[
+				41513.5135135135,
+				[
+					[
+						"Change Character",
+						"dad",
+						"sonicnear"
+					],
+					[
+						"Pixel Cam Shake",
+						"5, 4, 4",
+						"0.08"
+					]
+				]
+			],
+			[
+				42081.0810810811,
+				[
+					[
+						"Change Character",
+						"0",
+						"brotfwrongwithyo"
+					]
+				]
+			],
+			[
+				60891.8918918919,
+				[
+					[
+						"Play Animation",
+						"laugh1",
+						"dad"
+					]
+				]
+			],
+			[
+				61297.2972972974,
+				[
+					[
+						"Play Animation",
+						"laugh2",
+						"dad"
+					]
+				]
+			],
+			[
+				61621.6216216217,
+				[
+					[
+						"Play Animation",
+						"laugh3",
+						"dad"
+					]
+				]
+			],
+			[
+				61945.945945946,
+				[
+					[
+						"Play Animation",
+						"laugh4",
+						"dad"
+					]
+				]
+			],
+			[
+				62258.1081081082,
+				[
+					[
+						"Change Character",
+						"dad",
+						"lordX"
+					],
+					[
+						"Powerup Visuals",
+						"bf-chase",
+						""
+					],
+					[
+						"Pixel Cam Shake",
+						"15, 14, 13",
+						"0.025"
+					]
+				]
+			],
+			[
+				101675.675675676,
+				[
+					[
+						"Popup",
+						"",
+						""
+					]
+				]
+			],
+			[
+				102324.324324324,
+				[
+					[
+						"Popup",
+						"",
+						""
+					]
+				]
+			],
+			[
+				102648.648648649,
+				[
+					[
+						"Popup",
+						"",
+						""
+					]
+				]
+			],
+			[
+				102729.72972973,
+				[
+					[
+						"Popup",
+						"",
+						""
+					]
+				]
+			],
+			[
+				102972.972972973,
+				[
+					[
+						"Popup",
+						"",
+						""
+					]
+				]
+			],
+			[
+				103783.783783784,
+				[
+					[
+						"Popup",
+						"",
+						""
+					]
+				]
+			],
+			[
+				113513.513513513,
+				[
+					[
+						"Change Character",
+						"1",
+						"tooslowsmall"
+					],
+					[
+						"Play Animation",
+						"TOOSLOW",
+						"Dad"
+					]
+				]
+			],
+			[
+				114162.162162162,
+				[
+					[
+						"Change Character",
+						"1",
+						"lordX"
+					]
+				]
+			],
+			[
+				124135.135135135,
+				[
+					[
+						"Change Character",
+						"dad",
+						"big-mx"
+					]
+				]
+			],
+			[
+				124504.054054054,
+				[
+					[
+						"Powerup Visuals",
+						"bf-wall",
+						""
+					]
+				]
+			],
+			[
+				144567.567567568,
+				[
+					[
+						"Change Character",
+						"1",
+						"tooslowbig"
+					],
+					[
+						"Play Animation",
+						"TOOSLOW",
+						"Dad"
+					]
+				]
+			],
+			[
+				145297.297297297,
+				[
+					[
+						"Change Character",
+						"1",
+						"big-mx"
+					]
+				]
+			],
+			[
+				165081.081081081,
+				[
+					[
+						"Change Character",
+						"dad",
+						"mx-angry"
+					]
+				]
+			],
+			[
+				166011.486486487,
+				[
+					[
+						"Powerup Visuals",
+						"bf-chase",
+						""
+					]
+				]
+			],
+			[
+				166054.054054054,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-chasealt"
+					],
+					[
+						"Change Character",
+						"dad",
+						"lordXangry"
+					]
+				]
+			],
+			[
+				189243.243243244,
+				[
+					[
+						"end Pipe",
+						"",
+						""
+					]
+				]
+			],
+			[
+				190459.45945946,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-ending"
+					],
+					[
+						"Play Animation",
+						"fall",
+						"BF"
+					]
+				]
+			],
+			[
+				210081.081081082,
+				[
+					[
+						"Play Animation",
+						"struggle2",
+						"BF"
+					]
+				]
+			],
+			[
+				211459.45945946,
+				[
+					[
+						"Play Animation",
+						"up",
+						"BF"
+					]
+				]
+			],
+			[
+				213162.162162163,
+				[
+					[
+						"Play Animation",
+						"lookleft",
+						"BF"
+					]
+				]
+			],
+			[
+				213729.72972973,
+				[
+					[
+						"Play Animation",
+						"lookright",
+						"BF"
+					]
+				]
+			],
+			[
+				214297.297297298,
+				[
+					[
+						"Play Animation",
+						"lookleft",
+						"BF"
+					]
+				]
+			],
+			[
+				215351.351351352,
+				[
+					[
+						"Play Animation",
+						"appear",
+						"BF"
+					]
+				]
+			],
+			[
+				217783.783783784,
+				[
+					[
+						"Play Animation",
+						"grabbed",
+						"BF"
+					]
+				]
+			],
+			[
+				221270.270270271,
+				[
+					[
+						"Play Animation",
+						"snappedout",
+						"BF"
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bgendloop.png">
+<SubTexture name="bgendloop0000" x="0" y="0" width="529" height="160" frameX="0" frameY="0" frameWidth="229" frameHeight="150" />
+<SubTexture name="bgendloop0001" x="0" y="160" width="529" height="160" frameX="0" frameY="0" frameWidth="229" frameHeight="150" />
+<SubTexture name="bgendloop0002" x="0" y="320" width="529" height="160" frameX="0" frameY="0" frameWidth="229" frameHeight="150" />
+<SubTexture name="bgendloop0003" x="0" y="160" width="529" height="160" frameX="0" frameY="0" frameWidth="229" frameHeight="150" />
+</TextureAtlas>

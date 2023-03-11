@@ -1,0 +1,46 @@
+{
+	"song": {
+		"events": [
+			[
+				113513.513513513,
+				[
+					[
+						"Change Character",
+						"1",
+						"tooslowsmall"
+					],
+					[
+						"Play Animation",
+						"TOOSLOW",
+						"Dad"
+					]
+				]
+			],
+			[
+				144567.567567568,
+				[
+					[
+						"Change Character",
+						"1",
+						"tooslowbig"
+					],
+					[
+						"Play Animation",
+						"TOOSLOW",
+						"Dad"
+					]
+				]
+			],
+			[
+				145297.297297297,
+				[
+					[
+						"Change Character",
+						"1",
+						"big-mx"
+					]
+				]
+			]
+		]
+	}
+}

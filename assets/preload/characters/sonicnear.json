@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-46
+			],
+			"loop": true,
+			"fps": 10,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				0,
+				-46
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				0,
+				-46
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				0,
+				-46
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				0,
+				-46
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "laugh1",
+			"indices": [],
+			"name": "laugh1"
+		},
+		{
+			"offsets": [
+				0,
+				-46
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "laugh2",
+			"indices": [],
+			"name": "laugh2"
+		},
+		{
+			"offsets": [
+				0,
+				-46
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "laugh3",
+			"indices": [],
+			"name": "laugh3"
+		},
+		{
+			"offsets": [
+				0,
+				-46
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "laugh4",
+			"indices": [],
+			"name": "laugh4"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-46
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/lordXnear",
+	"position": [
+		0,
+		80
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 4.5
+}

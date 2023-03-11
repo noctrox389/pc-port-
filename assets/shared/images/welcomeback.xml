@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="welcomeback.png">
+<SubTexture name="welcomeback welcomeback0000" x="0" y="850" width="1280" height="850" frameX="0" frameY="0" frameWidth="1280" frameHeight="850" />
+<SubTexture name="welcomeback welcomeback0001" x="1280" y="0" width="1280" height="850" frameX="0" frameY="0" frameWidth="1280" frameHeight="850" />
+<SubTexture name="welcomeback welcomeback0002" x="0" y="850" width="1280" height="850" frameX="0" frameY="0" frameWidth="1280" frameHeight="850" />
+<SubTexture name="welcomeback welcomeback0003" x="1280" y="0" width="1280" height="850" frameX="0" frameY="0" frameWidth="1280" frameHeight="850" />
+<SubTexture name="welcomeback welcomeback0004" x="0" y="850" width="1280" height="850" frameX="0" frameY="0" frameWidth="1280" frameHeight="850" />
+<SubTexture name="welcomeback welcomeback0005" x="1280" y="0" width="1280" height="850" frameX="0" frameY="0" frameWidth="1280" frameHeight="850" />
+<SubTexture name="welcomeback welcomeback0006" x="0" y="850" width="1280" height="850" frameX="0" frameY="0" frameWidth="1280" frameHeight="850" />
+<SubTexture name="welcomeback welcomeback0007" x="1280" y="0" width="1280" height="850" frameX="0" frameY="0" frameWidth="1280" frameHeight="850" />
+<SubTexture name="welcomeback welcomeback0008" x="0" y="850" width="1280" height="850" frameX="0" frameY="0" frameWidth="1280" frameHeight="850" />
+<SubTexture name="welcomeback welcomeback0009" x="1280" y="0" width="1280" height="850" frameX="0" frameY="0" frameWidth="1280" frameHeight="850" />
+</TextureAtlas>

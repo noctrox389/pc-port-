@@ -1,0 +1,31 @@
+{
+	"storyName": "Sonic Has Passed",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week7",
+	"freeplayColor": [
+		21,
+		89,
+		101
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Game-Over",
+			"disk",
+			[
+				10,
+		0,
+		0
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "Passed"
+}

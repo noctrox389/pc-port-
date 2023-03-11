@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-200,
+				193
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "fall",
+			"indices": [],
+			"name": "fall"
+		},
+		{
+			"offsets": [
+				-200,
+				193
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "struggle1",
+			"indices": [],
+			"name": "struggle1"
+		},
+		{
+			"offsets": [
+				-200,
+				193
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "struggle2",
+			"indices": [],
+			"name": "struggle2"
+		},
+		{
+			"offsets": [
+				-200,
+				193
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "up",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-200,
+				193
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "lookleft",
+			"indices": [],
+			"name": "lookleft"
+		},
+		{
+			"offsets": [
+				-200,
+				193
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "lookright",
+			"indices": [],
+			"name": "lookright"
+		},
+		{
+			"offsets": [
+				-200,
+				193
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "appear",
+			"indices": [],
+			"name": "appear"
+		},
+		{
+			"offsets": [
+				-200,
+				193
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "grabbed",
+			"indices": [],
+			"name": "grabbed"
+		},
+		{
+			"offsets": [
+				-200,
+				193
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "snappedout",
+			"indices": [],
+			"name": "snappedout"
+		},
+		{
+			"offsets": [
+				-200,
+				193
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "lordx",
+			"indices": [],
+			"name": "lordx"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/bfending",
+	"position": [
+		70,
+		300
+	],
+	"healthicon": "face",
+	"flip_x": true,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 4.5
+}

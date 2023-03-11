@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfrun.png">
+<SubTexture name="down0000" x="0" y="0" width="52" height="43" frameX="-1" frameY="-7" frameWidth="43" frameHeight="36" />
+<SubTexture name="down0001" x="52" y="0" width="51" height="44" frameX="-2" frameY="-6" frameWidth="43" frameHeight="36" />
+<SubTexture name="idle0000" x="103" y="0" width="53" height="55" frameX="0" frameY="-1" frameWidth="43" frameHeight="36" />
+<SubTexture name="idle0001" x="0" y="55" width="49" height="57" frameX="-2" frameY="0" frameWidth="43" frameHeight="37" />
+<SubTexture name="idle0002" x="49" y="55" width="52" height="54" frameX="-3" frameY="-3" frameWidth="43" frameHeight="37" />
+<SubTexture name="idle0003" x="101" y="55" width="53" height="55" frameX="-2" frameY="-1" frameWidth="43" frameHeight="37" />
+<SubTexture name="idle0004" x="0" y="112" width="52" height="56" frameX="-2" frameY="0" frameWidth="43" frameHeight="37" />
+<SubTexture name="idle0005" x="52" y="112" width="50" height="54" frameX="-3" frameY="-3" frameWidth="43" frameHeight="37" />
+<SubTexture name="jump0000" x="102" y="112" width="55" height="49" frameX="-5" frameY="0" frameWidth="43" frameHeight="39" />
+<SubTexture name="left0000" x="0" y="168" width="55" height="45" frameX="-1" frameY="-2" frameWidth="40" frameHeight="36" />
+<SubTexture name="left0001" x="55" y="168" width="56" height="45" frameX="-2" frameY="-2" frameWidth="40" frameHeight="36" />
+<SubTexture name="right0000" x="111" y="168" width="55" height="45" frameX="-8" frameY="-2" frameWidth="43" frameHeight="36" />
+<SubTexture name="right0001" x="0" y="213" width="52" height="45" frameX="-7" frameY="-2" frameWidth="43" frameHeight="36" />
+<SubTexture name="up0000" x="52" y="213" width="46" height="47" frameX="-9" frameY="0" frameWidth="43" frameHeight="36" />
+<SubTexture name="up0001" x="98" y="213" width="48" height="46" frameX="-8" frameY="-1" frameWidth="43" frameHeight="36" />
+</TextureAtlas>

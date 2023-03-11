@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="TOOSLOW.png">
+<SubTexture name="TOOSLOW0000" x="273" y="0" width="90" height="98" frameX="-32" frameY="-22" frameWidth="132" frameHeight="122" />
+<SubTexture name="TOOSLOW0001" x="273" y="98" width="90" height="98" frameX="-32" frameY="-22" frameWidth="132" frameHeight="122" />
+<SubTexture name="TOOSLOW0002" x="0" y="200" width="90" height="98" frameX="-32" frameY="-22" frameWidth="132" frameHeight="122" />
+<SubTexture name="TOOSLOW0003" x="90" y="200" width="90" height="98" frameX="-32" frameY="-22" frameWidth="132" frameHeight="122" />
+<SubTexture name="TOOSLOW0004" x="180" y="200" width="90" height="98" frameX="-32" frameY="-22" frameWidth="132" frameHeight="122" />
+<SubTexture name="TOOSLOW0005" x="363" y="0" width="95" height="98" frameX="-28" frameY="-22" frameWidth="132" frameHeight="122" />
+<SubTexture name="TOOSLOW0006" x="0" y="0" width="91" height="100" frameX="-23" frameY="-22" frameWidth="132" frameHeight="122" />
+<SubTexture name="TOOSLOW0007" x="91" y="0" width="91" height="100" frameX="-25" frameY="-22" frameWidth="132" frameHeight="122" />
+<SubTexture name="TOOSLOW0008" x="182" y="0" width="91" height="100" frameX="-25" frameY="-22" frameWidth="132" frameHeight="122" />
+<SubTexture name="TOOSLOW0009" x="0" y="100" width="91" height="100" frameX="-25" frameY="-22" frameWidth="132" frameHeight="122" />
+<SubTexture name="TOOSLOW0010" x="91" y="100" width="91" height="100" frameX="-25" frameY="-22" frameWidth="132" frameHeight="122" />
+<SubTexture name="TOOSLOW0011" x="182" y="100" width="91" height="100" frameX="-25" frameY="-22" frameWidth="132" frameHeight="122" />
+<SubTexture name="TOOSLOW0012" x="182" y="100" width="91" height="100" frameX="-25" frameY="-22" frameWidth="132" frameHeight="122" />
+<SubTexture name="TOOSLOW0013" x="182" y="100" width="91" height="100" frameX="-25" frameY="-22" frameWidth="132" frameHeight="122" />
+<SubTexture name="TOOSLOW0014" x="182" y="100" width="91" height="100" frameX="-25" frameY="-22" frameWidth="132" frameHeight="122" />
+</TextureAtlas>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bgendAI.png">
+<SubTexture name="bgendAIblue0000" x="0" y="0" width="231" height="152" frameX="0" frameY="0" frameWidth="229" frameHeight="150" />
+<SubTexture name="bgendAIblue0001" x="0" y="152" width="231" height="152" frameX="0" frameY="0" frameWidth="229" frameHeight="150" />
+<SubTexture name="bgendAIblue0002" x="0" y="304" width="231" height="152" frameX="0" frameY="0" frameWidth="229" frameHeight="150" />
+<SubTexture name="bgendAIblue0003" x="0" y="456" width="231" height="152" frameX="0" frameY="0" frameWidth="229" frameHeight="150" />
+</TextureAtlas>

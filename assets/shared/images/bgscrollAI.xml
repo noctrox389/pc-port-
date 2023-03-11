@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bgscrollAI.png">
+<SubTexture name="bgscrollAI0000" x="0" y="0" width="231" height="152" frameX="0" frameY="0" frameWidth="229" frameHeight="150" />
+<SubTexture name="bgscrollAI0001" x="231" y="0" width="231" height="152" frameX="0" frameY="0" frameWidth="229" frameHeight="150" />
+<SubTexture name="bgscrollAI0002" x="462" y="0" width="231" height="152" frameX="0" frameY="0" frameWidth="229" frameHeight="150" />
+<SubTexture name="bgscrollAI0003" x="0" y="152" width="231" height="152" frameX="0" frameY="0" frameWidth="229" frameHeight="150" />
+<SubTexture name="bgscrollAI0004" x="231" y="152" width="231" height="152" frameX="0" frameY="0" frameWidth="229" frameHeight="150" />
+<SubTexture name="bgscrollAI0005" x="462" y="152" width="231" height="152" frameX="0" frameY="0" frameWidth="229" frameHeight="150" />
+<SubTexture name="bgscrollAI0006" x="0" y="304" width="231" height="152" frameX="0" frameY="0" frameWidth="229" frameHeight="150" />
+<SubTexture name="bgscrollAI0007" x="231" y="304" width="231" height="152" frameX="0" frameY="0" frameWidth="229" frameHeight="150" />
+<SubTexture name="bgscrollAI0008" x="462" y="304" width="231" height="152" frameX="0" frameY="0" frameWidth="229" frameHeight="150" />
+<SubTexture name="bgscrollAI0009" x="0" y="456" width="231" height="152" frameX="0" frameY="0" frameWidth="229" frameHeight="150" />
+<SubTexture name="bgscrollAI0010" x="231" y="456" width="231" height="152" frameX="0" frameY="0" frameWidth="229" frameHeight="150" />
+<SubTexture name="bgscrollAI0011" x="462" y="456" width="231" height="152" frameX="0" frameY="0" frameWidth="229" frameHeight="150" />
+<SubTexture name="bgscrollAI0012" x="0" y="608" width="231" height="152" frameX="0" frameY="0" frameWidth="229" frameHeight="150" />
+<SubTexture name="bgscrollAI0013" x="231" y="608" width="231" height="152" frameX="0" frameY="0" frameWidth="229" frameHeight="150" />
+<SubTexture name="bgscrollAI0014" x="462" y="608" width="231" height="152" frameX="0" frameY="0" frameWidth="229" frameHeight="150" />
+<SubTexture name="bgscrollAI0015" x="0" y="760" width="231" height="152" frameX="0" frameY="0" frameWidth="229" frameHeight="150" />
+<SubTexture name="bgscrollAI0016" x="231" y="760" width="231" height="152" frameX="0" frameY="0" frameWidth="229" frameHeight="150" />
+<SubTexture name="bgscrollAI0017" x="462" y="760" width="231" height="152" frameX="0" frameY="0" frameWidth="229" frameHeight="150" />
+<SubTexture name="bgscrollAI0018" x="0" y="912" width="231" height="152" frameX="0" frameY="0" frameWidth="229" frameHeight="150" />
+<SubTexture name="bgscrollAI0019" x="231" y="912" width="231" height="152" frameX="0" frameY="0" frameWidth="229" frameHeight="150" />
+<SubTexture name="bgscrollAI0020" x="462" y="912" width="231" height="152" frameX="0" frameY="0" frameWidth="229" frameHeight="150" />
+<SubTexture name="bgscrollAI0021" x="462" y="912" width="231" height="152" frameX="0" frameY="0" frameWidth="229" frameHeight="150" />
+<SubTexture name="bgscrollAI0022" x="0" y="1064" width="231" height="152" frameX="0" frameY="0" frameWidth="229" frameHeight="150" />
+<SubTexture name="bgscrollAI0023" x="231" y="1064" width="231" height="152" frameX="0" frameY="0" frameWidth="229" frameHeight="150" />
+<SubTexture name="bgscrollAI0024" x="462" y="1064" width="231" height="152" frameX="0" frameY="0" frameWidth="229" frameHeight="150" />
+</TextureAtlas>

@@ -1,0 +1,125 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				-125
+			],
+			"anim": "idle",
+			"fps": 10,
+			"name": "entrance",
+			"indices": [1]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-125
+			],
+			"anim": "entranceTRANSITION",
+			"fps": 10,
+			"name": "entrance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-125
+			],
+			"anim": "idle-alt",
+			"fps": 10,
+			"name": "idle-alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-125
+			],
+			"anim": "singLEFT",
+			"fps": 10,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-125
+			],
+			"anim": "singDOWN",
+			"fps": 10,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-125
+			],
+			"anim": "singUP",
+			"fps": 10,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-125
+			],
+			"anim": "singRIGHT",
+			"fps": 10,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				-125
+			],
+			"anim": "transition-loop",
+			"fps": 10,
+			"name": "transition",
+			"indices": [
+				11,
+				11
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-125
+			],
+			"anim": "transition",
+			"fps": 10,
+			"name": "transition",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/lordXfake",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 4.5
+}

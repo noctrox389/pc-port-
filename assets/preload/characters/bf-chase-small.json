@@ -1,0 +1,103 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-80,
+				-135
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-80,
+				-140
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-80,
+				-130
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-81,
+				-136
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-80,
+				-140
+			],
+			"loop": true,
+			"fps": 10,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-61,
+				-130
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "idle-j",
+			"indices": [],
+			"name": "jump"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-80,
+				-140
+			],
+			"anim": "pause",
+			"fps": 10,
+			"name": "idle",
+			"indices": [
+				-110,
+				-90
+			]
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/bf-chase-small",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "face",
+	"flip_x": true,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 4.5
+}

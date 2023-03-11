@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="loopingfg.png">
+<SubTexture name="brickscroll0000" x="0" y="0" width="3417" height="152" frameX="0" frameY="-48" frameWidth="3417" frameHeight="150" />
+<SubTexture name="brickscroll0001" x="0" y="152" width="3417" height="152" frameX="0" frameY="-48" frameWidth="3417" frameHeight="150" />
+<SubTexture name="brickscroll0002" x="0" y="304" width="3417" height="152" frameX="0" frameY="-48" frameWidth="3417" frameHeight="150" />
+<SubTexture name="brickscroll0003" x="0" y="456" width="3417" height="152" frameX="0" frameY="-48" frameWidth="3417" frameHeight="150" />
+</TextureAtlas>
